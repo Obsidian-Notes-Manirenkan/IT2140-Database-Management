@@ -22,55 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "bc110ca2940b60af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e181daa5bae9db07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\DDD",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "win32Backend": "conpty"
-                  },
-                  "profileSourceId": "win32IntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "C:\\Windows\\System32\\cmd.exe"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -149,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/ER Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,15 +203,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e181daa5bae9db07",
+  "active": "dd9b1fcd527afd18",
   "lastOpenFiles": [
+    "Notes/~$Reference Sheet (DDD).tmp",
+    "Images/Pasted image 20261106151732.png",
+    "Images/Pasted image 20261106151332.png",
+    "Images/file-b25247086df800af7c76f3b1163be61a.png",
+    "Todo.md",
     "Notes/ER Notation.md",
     "Images/Pasted image 20261106134021.png",
     "Images/Pasted image 20261106133953.png",
-    "Todo.md",
     "Images/Pasted image 20261106133911.png",
     "Images",
-    "Notes/~$Reference Sheet (DDD).tmp",
     "Notes/Confidence Interval.md",
     "Notes/P Value.md",
     "Notes/Regression Analysis.md",
@@ -276,9 +231,6 @@
     "Tutorials/Answers/Tutorial 10 - Answer.md",
     "Images/Pasted image 20261104081719.png",
     "Images/Pasted image 20261104060455.png",
-    "Images/Pasted image 20261104001536.png",
-    "Images/Pasted image 20261103223624.png",
-    "Images/Pasted image 20261103215658.png",
     "Tutorials/Tutorial 02.pdf",
     "Tutorials/Review Tutorial.pdf",
     "Tutorials/Answers/Tutorial 09 - Answer.md",
