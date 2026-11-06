@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "note-title",
+    "sidebrace",
+    "bible-callout",
+    "canvas-arrow",
+    "math-font-size"
+  ],
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "2d4b5b1855f3ccfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "469e73e63a4aa3c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9b1fcd527afd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ER Notation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ER Notation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc110ca2940b60af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e181daa5bae9db07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\DDD",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "win32Backend": "conpty"
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "C:\\Windows\\System32\\cmd.exe"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb5e1cb57285ae57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7271bc6f4a6585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155e78238121c612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb9028e92c5949b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mainPage",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e559714e2193476a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6b2aaf4bc5cb7344",
+    "type": "split",
+    "children": [
+      {
+        "id": "de819e74f8802e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fdd6b18e6435bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "868591924cc8585c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Neuron.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "696ef5625c94141d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d49a6175a39aeb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b24861beccbf89c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1bdaf17c902e7712",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Notes/Neuron.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.4000244140625,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "e181daa5bae9db07",
+  "lastOpenFiles": [
+    "Notes/ER Notation.md",
+    "Images/Pasted image 20261106134021.png",
+    "Images/Pasted image 20261106133953.png",
+    "Todo.md",
+    "Images/Pasted image 20261106133911.png",
+    "Images",
+    "Notes/~$Reference Sheet (DDD).tmp",
+    "Notes/Confidence Interval.md",
+    "Notes/P Value.md",
+    "Notes/Regression Analysis.md",
+    "Notes/Chi-Squared Test.md",
+    "Notes/Hypothesis Testing.md",
+    "Notes/Statistical Inference.md",
+    "Notes/Random Variable.md",
+    "Notes/Constant Probability of Success in Binomial Distribution.md",
+    "Notes/Cumulative Distribution Function.md",
+    "Notes/~$Reference Sheet (PS).tmp",
+    "Tutorials/Answers/Tutorial 11 - Answer.md",
+    "Images/Pasted image 20261104092237.png",
+    "Images/Pasted image 20261104090150.png",
+    "Tutorials/Answers/Tutorial 10 - Answer.md",
+    "Images/Pasted image 20261104081719.png",
+    "Images/Pasted image 20261104060455.png",
+    "Images/Pasted image 20261104001536.png",
+    "Images/Pasted image 20261103223624.png",
+    "Images/Pasted image 20261103215658.png",
+    "Tutorials/Tutorial 02.pdf",
+    "Tutorials/Review Tutorial.pdf",
+    "Tutorials/Answers/Tutorial 09 - Answer.md",
+    "Papers/PAS FINAL (DESHAN RASHMIKA).pdf",
+    "Papers/Unconfirmed 286267.crdownload",
+    "Tutorials/Answers/Tutorial 08 - Answer.md",
+    "Notes/T Distribution.md",
+    "Tutorials/Answers/Tutorial 06 - Answer.md",
+    "Notes/Sampling Distribution.md",
+    "Tutorials/Answers",
+    "Notes/Histogram.md",
+    "Notes/Boxplot.md",
+    "Notes/Unconfirmed 807193.crdownload",
+    "Notes/Unconfirmed 183504.crdownload",
+    "Notes/Random Variable 1.md",
+    "Instructions for AI/LaTeX Formatting Instructions.md",
+    "Instructions for AI/Instructions for Creating .md files.md",
+    "Statistical Inference.md",
+    "Hypothesis Testing.md",
+    "Ideaboard.canvas",
+    "Matthew - Family Tree.canvas",
+    "Family Tree.canvas"
+  ]
+}
