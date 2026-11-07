@@ -4,7 +4,7 @@
 - [ ] [[Lecture 04 (Conceptual Database Modelling - ER,EER).pptx]]
 - [ ] [[Lecture 05 (ER, EER to Relational Model Mapping).pptx]]
 - [ ] [[Lecture 06 (Schema Refinement).pptx]]
-- [ ] [[Lecture 07 (Database Programming).pptx]]
+- [x] [[Lecture 07 (Database Programming).pptx]]
 - [x] [[Lecture 08 (Relational Algebra).pptx]]
 - [x] [[Lecture 09 (Non-Relational Database).pptx]]
 
@@ -13,3 +13,6 @@
 # Things that need to be included in the reference sheet
 
 - [ ] [[ER Notation]]
+- [ ] [[T-SQL]]
+- [ ] [[Lecture 05 Handout.pdf]]
+- [ ] [[Lecture 04 Handout.pdf]]
