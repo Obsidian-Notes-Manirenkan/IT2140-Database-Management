@@ -17,4 +17,4 @@
 ![[Pasted image 20261106151732.png]]
 
 - There can be multiple key attributes called **candidate keys** in a single entity
-- A single candidate key is designated as the primary key;
+- A single candidate key is designated as the primary key

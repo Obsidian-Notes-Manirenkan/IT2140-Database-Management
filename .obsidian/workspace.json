@@ -8,45 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a317e55b795454c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Handouts/Lecture 05 Handout.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 05 Handout"
-            }
-          },
-          {
-            "id": "00d2cd23d4524591",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Handouts/Lecture 04 Handout.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 04 Handout"
-            }
-          },
-          {
             "id": "f6183e2b43b6f8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
-                "mode": "source",
+                "file": "Notes/Activities.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Activities"
+            }
+          },
+          {
+            "id": "c044e4ca24993d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Normal Forms.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normal Forms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Notes/Activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,30 +219,37 @@
   },
   "active": "f6183e2b43b6f8c4",
   "lastOpenFiles": [
+    "Notes/Normal Forms.md",
     "Notes/~$Reference Sheet (DDD).tmp",
+    "Notes/Activities.md",
+    "Images/Pasted image 20261108205317.png",
+    "Images/Pasted image 20261108205204.png",
+    "Images/Pasted image 20261108205047.png",
+    "Notes/Boyce-Codd Normal Form.md",
+    "Todo.md",
+    "Notes/3rd Normal Form.md",
+    "Images/Pasted image 20261108194909.png",
+    "Images/Pasted image 20261108194904.png",
+    "Images/Pasted image 20261108194212.png",
+    "Images/Pasted image 20261108193635.png",
+    "Images/Pasted image 20261108192505.png",
+    "Images/Pasted image 20261108192502.png",
+    "Images/Pasted image 20261108192322.png",
+    "Lectures/~$Lecture 06 (Schema Refinement).tmp",
+    "Notes/2nd Normal Form.md",
+    "Notes/ER Notation.md",
     "Notes/Handouts/Lecture 04 Handout.pdf",
     "Notes/Handouts/Lecture 05 Handout.pdf",
-    "Todo.md",
+    "Notes/Lab Sheet Support Material/Unconfirmed 696198.crdownload",
+    "Labsheets/Lab Sheet 07.pdf",
+    "Labsheets/Unconfirmed 964943.crdownload",
     "Tutorials/Tutorial 07.pdf",
     "Notes/T-SQL.md",
     "Notes/Exercises.md",
-    "Images/Pasted image 20261107101320.png",
     "Notes/Views.md",
     "Notes/Functions.md",
-    "Images/Pasted image 20261107090738.png",
     "Tutorials/IT2140-DDD-Revision Paper 2026.pdf",
     "Papers/Final Past Papers/2026 (May).pdf",
-    "Papers/Final Past Papers/2025 (November).pdf",
-    "Papers/Final Past Papers",
-    "Papers/New folder",
-    "Papers/Revision Paper 2025.pdf",
-    "Notes/ER Notation.md",
-    "Images/Pasted image 20261106151732.png",
-    "Images/Pasted image 20261106151332.png",
-    "Images/file-b25247086df800af7c76f3b1163be61a.png",
-    "Images/Pasted image 20261106134021.png",
-    "Images/Pasted image 20261106133953.png",
-    "Images/Pasted image 20261106133911.png",
     "Notes/Confidence Interval.md",
     "Notes/P Value.md",
     "Notes/Regression Analysis.md",
@@ -264,17 +260,10 @@
     "Notes/Constant Probability of Success in Binomial Distribution.md",
     "Notes/Cumulative Distribution Function.md",
     "Tutorials/Answers/Tutorial 11 - Answer.md",
-    "Images/Pasted image 20261104092237.png",
-    "Images/Pasted image 20261104090150.png",
     "Tutorials/Answers/Tutorial 10 - Answer.md",
     "Tutorials/Answers/Tutorial 09 - Answer.md",
     "Tutorials/Answers/Tutorial 08 - Answer.md",
     "Notes/T Distribution.md",
-    "Tutorials/Answers/Tutorial 06 - Answer.md",
-    "Notes/Sampling Distribution.md",
-    "Notes/Histogram.md",
-    "Notes/Boxplot.md",
-    "Notes/Random Variable 1.md",
     "Ideaboard.canvas",
     "Matthew - Family Tree.canvas",
     "Family Tree.canvas"

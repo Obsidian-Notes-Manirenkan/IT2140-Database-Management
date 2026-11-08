@@ -1,0 +1,47 @@
+/* =================================
+   INLINE MATH
+================================= */
+
+.markdown-rendered mjx-container:not([display="true"]),
+.markdown-source-view mjx-container:not([display="true"]) {
+	color: #bc8f5bff !important;
+	background-color: #191611ff !important;
+	border-radius: 6px;
+	padding: 1px 4px;
+}
+
+/* =========================================
+   BLOCK MATH - BACKGROUND EXTENDS ON SCROLL
+========================================= */
+
+/* Scrollable outer container */
+.markdown-rendered mjx-container[display="true"],
+.markdown-source-view mjx-container[display="true"] {
+	display: block !important;
+	max-width: 100%;
+	overflow-x: auto !important;
+	overflow-y: hidden !important;
+
+	background-color: #191611ff !important;
+	border-radius: 10px !important;
+
+	padding: 0 !important;
+	margin-bottom: 0;
+}
+
+/* Actual equation background */
+mjx-container[display="true"] > mjx-math {
+	display: inline-block !important;
+	width: max-content !important;
+	min-width: 100%;
+	box-sizing: border-box;
+
+	color: #bc8f5bff !important;
+	background: transparent !important;
+
+	padding: 14px 20px !important;
+}
+
+.markdown-source-view mjx-container[display="true"] {
+	margin: 1em 0 !important;
+}
